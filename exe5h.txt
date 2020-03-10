@@ -1,0 +1,4 @@
+select clientes.nome,count(*)
+From pedidos, clientes
+where clientes.codigo_cliente = pedidos.codigo_cliente
+group by nome
