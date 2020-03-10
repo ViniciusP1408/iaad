@@ -1,4 +1,0 @@
-1.Banco de dados é uma coleção de dados que representam informações sobre um domínio especifico 
-e Sistemas de gerência  de banco de dados é um software com recursos específicos para facilitar a manipulação das informações dos dados e o desenvolvimento de programas aplicativos.
-Um sistema de gerência de banco de dados é uma coleção de programas que permite que usuários criem e mantenham bancos de dados.
-Exemplos : MS SQL Server , Oracle Database, IBM DB2, MySQL , PostgreSQL.
